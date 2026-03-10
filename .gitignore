@@ -1,0 +1,3 @@
+# Sessions directory for Baileys auth
+# /sessions/*
+!/sessions/.gitkeep
