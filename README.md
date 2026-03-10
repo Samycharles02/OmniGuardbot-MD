@@ -1,6 +1,6 @@
 <h1 align="center">
 <span style="color:#1e90ff;">OMNIGUARD_MD</span>
-</h1><p align="center"><a href="https://omniguardbotv1-production.up.railway.app/">
+</h1><p align="center"><a href="omniguardbot-md-production.up.railway.app">
 <img src="https://railway.app/brand/logo-dark.png" width="28"/>
 </a>
 <b> Session Pairing Bot</b></p><p align="center">
