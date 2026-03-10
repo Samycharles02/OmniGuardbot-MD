@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<h1 align="center">
+<span style="color:#1e90ff;">OMNIGUARD_MD</span>
+</h1><p align="center"><a href="https://omniguardbotv1-production.up.railway.app/">
+<img src="https://railway.app/brand/logo-dark.png" width="28"/>
+</a>
+<b> Session Pairing Bot</b></p><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=OMNIGUARD_MD;VERSION+1.0.0" />
+</p>
 
-# Run and deploy your AI Studio app
+<p align="center">
+<img src="https://lieixmgdboiceopzksvu.supabase.co/storage/v1/object/public/hosted-files/rijqohey-1773001818408.jpg" width="380" style="border-radius:20px; box-shadow:0 0 40px #00bfff, 0 0 80px #00bfff;">
+</p>
 
-This contains everything you need to run your app locally.
+⚡ OmniGuard Features
 
-View your app in AI Studio: https://ai.studio/apps/611906ba-a882-491a-ba2b-9635d715b0bb
+- 🔐 Advanced Group Security
+- 📜 Smart Bot Commands
+- ⚡ Fast WhatsApp Automation
+- 🛠 Constant Improvements
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🚀 Stay tuned for updates and new features of OmniGuard Bot
